@@ -1,11 +1,11 @@
 #!/bin/bash
 set -e # exit with nonzero exit code if anything fails
 
-# go to the dist directory and create a *new* Git repo
+# Go to the dist directory and create a *new* Git repo
 cd dist
 git init
 
-# inside this git repo we'll pretend to be a new user
+# Inside this git repo we'll pretend to be a new user
 git config user.name "Travis CI"
 git config user.email "blackrosezy@gmail.com"
 
