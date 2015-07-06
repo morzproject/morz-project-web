@@ -1,0 +1,32 @@
+body {
+    background-color: #F2F1EF;
+    color: rgba(0, 0, 0, .68);
+}
+
+.app-header {
+    background-color: #f6bb43;
+}
+
+.app-footer {
+    padding: 50px 0 50px 0;
+}
+
+.app-feature .item {
+    margin-bottom: 20px;
+}
+
+.app-front-icon {
+    margin-bottom: 15px;
+}
+
+.app-download {
+    margin-top: -18px;
+    margin-bottom: 1rem;
+    background-color: rgba(0, 0, 0, .02);
+    padding: 5px;
+    border-top: 1px solid #D2D7D3;
+}
+
+.app-download a {
+    color: rgba(0, 0, 0, .6);
+}
