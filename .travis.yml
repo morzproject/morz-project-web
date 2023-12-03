@@ -1,5 +1,0 @@
-script: chmod +x deploy.sh && bash ./deploy.sh
-env:
-  global:
-  - GH_REF: github.com/morzproject/web.git
-  - secure: "G2eGiVDo88CXPOEc6ZnOESIAJwiZEBZYCzAhbd+5k69K6FNFu9/fodKG9nyzQ/qQ+l4Jpc7BjVcv0qDI/WqJzenwTrf6QcWVWfzgPbX+z7oHopq1npU4kNusN2ncI3zqxVKoKL9OGbiRdo8+qNLGORCrb4X2/XNlly8k6Nf0GgCbEXjwz19Kd/HfQJySFIrPfvWHroP6QCGkrqyktRUxXDUEslrauOsD1htdylPzFHmuQbzMVrH3g3rucZlz+7gVIwR+a0maLLSK4hJy1AAez1otsVuokrsWWE35MSK1lpsuXQdzSQKVQz0pbs4/vJ/4jeDABX1QGk5/1GY5G2QpuoIvRzqGWnHNg14g4OulOQypJaBZR3/Cqtrbm5UPphw28/oP/GO9nZ1vS4JU0pMFM+irGhXqQcypT0LCRC/474pXn8CkrB4T1FWYBfyGFB0uToi34yPviq3BcSFVyjOTiPQ4PIw1dlOxWtDsnfRIr+b+997WG5r5JvvRIPP6UdhxQ9l4Yad58bVDR6iRFCC+jsJPj59fgZD0CzZZlpWl+yNdSIDSTC61LYncgaMVRYTeuGoyGgRFD+MAd5W+tlyyyO2nEcfnqh9d3nW/fyJ4Z1rbgnPR1Hf29/IeADdgFL7tCKuf++2zYNLW14wNKWKwloHZr5d3i0jU28hQEo5cZm0="
